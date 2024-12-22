@@ -20,4 +20,4 @@ I speak Russian, English, and German.
 I am open to new opportunities and offers in the field of data analytics. If you have interesting projects or job openings, I would be happy to discuss!
 
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [E-mail](mailto:nyttlytt@gmail.com)
+- [E-mail](mailto:nyttlyttnytt@gmail.com)
