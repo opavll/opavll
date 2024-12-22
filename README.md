@@ -1,4 +1,4 @@
-# Hello 👋
+# Hi there 👋
 My name is Olesya Pavlova, and I am a data analyst with a background in teaching. My motivation to become an analyst stems from my desire to use data for informed decision-making and process optimization. I am passionate about data analysis and strive to develop my skills in this field to make a meaningful contribution to projects and teams.
 
 ## My Experience
